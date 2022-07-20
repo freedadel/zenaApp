@@ -1,6 +1,6 @@
-# flutter_grocery
+# ZENA Mobile Application
 
-A new Flutter application.
+App for Skin and hair care products.
 
 ## Getting Started
 
